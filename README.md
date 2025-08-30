@@ -1,7 +1,14 @@
 # qiskit-quantum-Chemistry
 ## ▶️ Run in Google Colab
 
-No need to install anything! You can run the full quantum example in your browser using Google Colab.
+No need to install anything! You can run the full quantum example in your browser using Google Colab
+
+##FOR MORE INFORMATION 
+
+
+**https://quantum.cloud.ibm.com/docs/en/tutorials/hello-world
+**
+
 
 👉 [Click here to open the notebook in Colab](https://colab.research.google.com/drive/13-cbaJZAW3cXrBz1EsEhTLtN6Bpa1sYs?usp=sharing)
 
